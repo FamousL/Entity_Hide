@@ -1,0 +1,7 @@
+name: Entity_Hide
+version: 1
+description: A plugin to hide entities a bit closer to the player than normal. 
+author: Famous Longwing
+api-version: "1.20"
+
+main: org.FamousL.Entity_hide.Entity_Hide.Entity_Hide
